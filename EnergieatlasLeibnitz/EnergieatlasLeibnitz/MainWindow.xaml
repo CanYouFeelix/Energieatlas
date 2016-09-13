@@ -8,5 +8,6 @@
         Title="MainWindow" Height="600" Width="800">
     <Grid>
         <map:MapCanvas />
+        <!-- Test Branch -->
     </Grid>
 </Window>
